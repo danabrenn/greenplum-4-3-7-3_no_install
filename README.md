@@ -1,5 +1,4 @@
 #Instructions for building a Greenplum 4.3.7.3 / Greenplum Command Center 2.0.0 environment with Vagrant
-
 ------------------
 ------------------
 This Vagrant build will create four ( 4 ) Greenplum Database nodes.
