@@ -34,7 +34,7 @@ Required Downloads
 
 1. Install Virtualbox from -- https://www.virtualbox.org/wiki/Downloads
 2. Install latest version of Vagrant from -- http://downloads.vagrantup.com/
-3. Download 'VM-Bits-4-3-7-3.7z' from -- https://drive.google.com/open?id=0B0GuXbbUzfoWTW9TMUN5R0Z2cVU
+3. Download 'VM-Bits-4-3-7-3.7z' from -- https://drive.google.com/open?id=0B0GuXbbUzfoWSGJjZFcxRXQtZ00
 
 --------------
 --------------
